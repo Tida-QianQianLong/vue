@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "body": "",
+  "download_url": "",
+  "platforms": {
+    "windows": {
+      "version": "1.0.0",
+      "body": "",
+      "download_url": ""
+    },
+    "macos": {
+      "version": "1.0.0",
+      "body": "",
+      "download_url": ""
+    },
+    "android": {
+      "version": "1.0.0",
+      "body": "",
+      "download_url": ""
+    },
+    "linux": {
+      "version": "1.0.0",
+      "body": "",
+      "download_url": ""
+    }
+  }
+}
